@@ -1,0 +1,81 @@
+:root {
+    color-scheme: light;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+    background: #FFF;
+    color: #000;
+    font-size: 100%;
+    line-height: 1.5;
+    text-wrap: pretty;
+}
+
+body {
+    padding: 1rem;
+    margin: auto;
+    max-width: 66ch;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    line-height: 1.1;
+    text-wrap: balance;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-block: 2rem;
+}
+
+h2 {
+    font-size: 1.6rem;
+    margin-block: 4rem 2rem;
+}
+
+li {
+    margin-top: .5rem;
+}
+
+a {
+    color: unset;
+}
+
+header {
+    border-bottom: 1px solid;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+footer {
+    border-top: 1px solid;
+    text-align: center;
+    margin-top: 4rem;
+    padding-top: 1rem;
+}
+
+address {
+    font-style: normal;
+}
+
+p.logos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+}
+
+.logos img, .logos span {
+    font-size: .8rem;
+    object-fit: contain;    
+    height: auto;
+    max-height: 80px;
+    width: 120px;
+}

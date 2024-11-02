@@ -1,0 +1,47 @@
+baseURL = "https://as1994.ch/"
+title = "AS Asset Services SA"
+
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+
+removePathAccents = true
+
+disableKinds = [ "taxonomy", "term", "robotsTXT", "RSS", "sitemap"]
+
+cleanDestinationDir = true
+enableGitInfo = true
+noBuildLock = true
+
+[build]
+writeStats = false
+
+[languages]
+
+[languages.fr]
+contentDir = "content/fr"
+languageCode = "fr-CH"
+languageName = "Français"
+weight = 10
+
+[languages.de]
+contentDir = "content/de"
+languageCode = "de-CH"
+languageName = "Deutsch"
+weight = 20
+
+[markup.goldmark.parser]
+autoHeadingIDType = "github-ascii"
+
+[markup.goldmark.parser.attribute]
+block = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[minify]
+minifyOutput = true
+
+[minify.tdewolff.html]
+keepDefaultAttrVals = false
+keepQuotes = true
+keepWhitespace = true
