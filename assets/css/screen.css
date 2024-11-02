@@ -66,9 +66,12 @@ address {
 }
 
 p.logos {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-auto-flow: row;
+    gap: 2rem;
+    align-items: center;
+    width: 100%;
     justify-content: space-between;
 }
 
@@ -77,5 +80,6 @@ p.logos {
     object-fit: contain;    
     height: auto;
     max-height: 80px;
-    width: 120px;
+    max-width: 120px;
+    text-align: center;
 }

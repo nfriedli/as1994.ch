@@ -51,9 +51,9 @@ Some corporates, administrations, universities & institutes of technology who ha
 ![swisspath](/images/swisspath.jpg)
 ![hsbc](/images/hsbc.jpg)
 ![Jefferies](/images/Jefferies.jpg)
-<span>![pages](/images/pages.png) Some more banks</span>
-<span>![pages](/images/pages.png) Some family offices</span>
-<span>![pages](/images/pages.png) Some pension funds</span>
+<span>![pages](/images/pages.png)<br>Some more banks</span>
+<span>![pages](/images/pages.png)<br>Some family offices</span>
+<span>![pages](/images/pages.png)<br>Some pension funds</span>
 ![4seeventures](/images/4seeventures.jpg)
 { .logos }
 
@@ -91,7 +91,7 @@ Some corporates, administrations, universities & institutes of technology who ha
 ![zurich](/images/zurich.jpg)
 ![vd](/images/vd.jpg)
 ![fribourg](/images/fribourg.jpg)
-<span>![pages](/images/pages.png) Judicial institutions</span>
+<span>![pages](/images/pages.png)<br>Judicial institutions</span>
 { .logos }
 
 
@@ -109,5 +109,5 @@ Some corporates, administrations, universities & institutes of technology who ha
 ![prd](/images/prd.jpg)
 ![hr](/images/hr.jpg)
 ![bpw](/images/bpw.jpg)
-<span>![fh](/images/fh.jpg) Federation Swiss Watch Industry</span>
+<span>![fh](/images/fh.jpg)<br>Federation Swiss Watch Industry
 { .logos }
