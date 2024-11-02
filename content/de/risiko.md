@@ -1,5 +1,7 @@
 ---
-title: Gestion des risques dans les marchés financiers
+title: Risiko
+menu: main
+translationKey: risques
 ---
 
 ## Notre exclusivité

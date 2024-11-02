@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publikationen
 menu: main
 translationKey: publications
 ---

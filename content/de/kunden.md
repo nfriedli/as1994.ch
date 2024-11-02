@@ -1,5 +1,5 @@
 ---
-title: Clients
+title: Kunden
 menu: main
 translationKey: clients
 ---

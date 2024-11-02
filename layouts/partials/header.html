@@ -1,4 +1,6 @@
 <header>
+    <img src="/images/as.svg" alt="Logo Asset Services SA" height="60">
+
     <nav>
         {{ $current := .RelPermalink}}
         {{ range site.Menus.main }}
@@ -8,5 +10,17 @@
                 <a href="{{ .URL }}">{{ .Name }}</a>
             {{ end }}
         {{ end }}
+
+        {{ if .IsTranslated }} <span>/</span>
+        {{ range .AllTranslations }}
+            {{ if eq .Lang page.Lang }}
+            {{ .Language.LanguageName }}
+            {{ else }}
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            {{ end }}
+        {{ end}}
+        {{ end }}
+
     </nav>
+
 </header>

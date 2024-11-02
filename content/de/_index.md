@@ -1,5 +1,7 @@
 ---
 title: AS Asset Services SA
+linkTitle: Home
+menu: main
 ---
 
 Seit 1994 wenden wir für unsere Kunden Spitzenforschung auf das Risk Management in den Finanzmärkten an, lehren, publizieren und finden uns im Recht zurecht.

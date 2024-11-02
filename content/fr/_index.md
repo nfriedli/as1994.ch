@@ -1,5 +1,7 @@
 ---
 title: AS Asset Services SA
+linkTitle: Accueil
+menu: main
 ---
 
 Depuis 1994, nous appliquons pour nos clients la recherche de pointe à la gestion des risques dans les marchés financiers, enseignons et publions. De même répondons-nous aux défis du droit.
