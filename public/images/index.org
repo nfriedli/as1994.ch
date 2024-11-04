@@ -1,0 +1,51 @@
+#+TITLE: Clients -- Referenzen -- 客户
+#+AUTHOR: AS Asset Services SA
+#+EMAIL: office@assetservices.ch
+#+LANGUAGE: fr
+#+OPTIONS: html-scripts:nil html-postamble:nil html-preamble:nil html-style:nil toc:nil num:nil
+#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="/style.css" />
+#+HTML_HEAD_EXTRA: <style>body {max-width: 750px;}</style>
+
+#+BEGIN_EXPORT html
+<style>
+table {width: 100%; text-align: center; font-size: 70%;}
+table img {opacity: 0.7; display:block; max-width: 100%; margin:auto;}
+.home img {opacity: 1; }
+</style>
+#+END_EXPORT
+
+Some corporates, administrations, universities & institutes of
+technology who have been counting on AS since 1994 (published by
+consent). 以下机构从1994开始一直信赖AS公司（经同意发表）\\
+\nbsp \\
+
+#+ATTR_HTML: :border 0
+| [[file:abb.jpg]]             | [[file:swisscom.jpg]]          | [[file:siemens.jpg]]                            | [[file:bombardier.jpg]]       | [[file:ascom.jpg]]              |
+| [[file:baxter.jpg]]          | [[file:ypsomed.jpg]]           | [[file:medela.jpg]]                             | [[file:flughafen-zurich.jpg]] | [[file:unique.jpg]]             |
+| [[file:enics.jpg]]           | [[file:distrelec.jpg]]         | [[file:swiss-engineering.jpg]]                  | [[file:swisst-net.jpg]]       | [[file:ugs.jpg]]                |
+| [[file:bachofen.jpg]]        | [[file:getronic.jpg]]          | [[file:carl-geisser.jpg]]                       | [[file:alu-menziken.jpg]]     | [[file:hersche.jpg]]            |
+| [[file:phoenix.jpg]]         | [[file:fluka.jpg]]             | [[file:kern.jpg]]                               | [[file:polymeca.jpg]]         | [[file:crypto.jpg]]             |
+| [[file:swisscom-mobile.jpg]] |                            |                                             |                           |                             |
+| \nbsp                    |                            |                                             |                           |                             |
+| \nbsp                    |                            |                                             |                           |                             |
+| [[file:bevag.jpg]]           | [[file:basler.jpg]]            | [[file:vaudoise.jpg]]                           | [[file:pax.jpg]]              | [[file:winterthur.jpg]]         |
+| [[file:Jefferies.jpg]]       | [[file:naef.jpg]]              | [[file:swiss-capital.jpg]]                      | [[file:aganola.jpg]]          | [[file:finanz-konsulenten.jpg]] |
+| [[file:fondvest.jpg]]        | [[file:zuhlke.jpg]]            | [[file:pack-impex.jpg]]                         | [[file:hsbc.jpg]]             | some more banks             |
+| some pension funds       |                            |                                             |                           |                             |
+| \nbsp                    |                            |                                             |                           |                             |
+| \nbsp                    |                            |                                             |                           |                             |
+| [[file:fns.jpg]]             | [[file:unizh.jpg]]             | [[file:tongji.jpg]]                             | [[file:new.jpg]]              | [[file:epfl.jpg]]               |
+| [[file:fern.jpg]]            | [[file:hec.jpg]]               | [[file:technopark.jpg]]                         | [[file:glatec.jpg]]           | [[file:create.jpg]]             |
+| [[file:akad.jpg]]            | [[file:bvf-bap.jpg]]           | [[file:sec-fribourg.jpg]]                       | [[file:cecom.jpg]]            | [[file:esgc.jpg]]               |
+| [[file:esnig.jpg]]           | [[file:zef.jpg]]               | [[file:unige.jpg]]                              |                           |                             |
+| \nbsp                    |                            |                                             |                           |                             |
+| \nbsp                    |                            |                                             |                           |                             |
+| [[file:zurich.jpg]]          | [[file:ofas.jpg]]              | [[file:efd.jpg]]                                | [[file:vbs.jpg]]              | [[file:confederation.jpg]]      |
+| [[file:fribourg.jpg]]        | [[file:image.jpg]]             |                                             |                           |                             |
+| \nbsp                    |                            |                                             |                           |                             |
+| \nbsp                    |                            |                                             |                           |                             |
+| [[file:nzz.jpg]]             | [[file:finanz-wirtschaft.jpg]] | [[file:smz.jpg]]                                | [[file:agefi.jpg]]            | [[file:heri.jpg]]               |
+| [[file:helbling.jpg]]        | [[file:aargau.jpg]]            | [[file:pim.jpg]]                                | [[file:artos.jpg]]            | [[file:prd.jpg]]                |
+| [[file:hr.jpg]]              | [[file:bpw.jpg]]               | [[file:fh.jpg]] Federation Swiss Watch Industry |                           |                             |
+
+#+INCLUDE: "../address.org"

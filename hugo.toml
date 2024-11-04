@@ -1,4 +1,5 @@
-baseURL = "https://as1994.ch/"
+# baseURL = "https://as1994.ch/"
+baseURL = "https://as1994.netlify.app/"
 title = "AS Asset Services SA"
 
 defaultContentLanguage = "fr"
