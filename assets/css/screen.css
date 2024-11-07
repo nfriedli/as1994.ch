@@ -83,6 +83,11 @@ address {
     font-style: normal;
 }
 
+.big {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
 div.logos {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));

@@ -1,8 +1,32 @@
 ---
-title: Risiko
+title: Wirtschaft
 menu: main
-translationKey: risques
+translationKey: economie
 ---
+
+
+## Kommunikation in Financial Markets: Mesure de sentiment des Developed Stock Markets    
+	
+Notre exclusivité
+Notre gestion des risques est la seule à: 
+travailler avec la psychologie et les émotions
+se fonder sur la théorie des systèmes, les sciences de la communication et du comportement
+travailler d’une manière progressive et non mécanique
+
+Notre instrument
+Global Sentiment Exposure Index (G-SEI) Description   Abo
+
+Notre Track Record 
+Exposition & Outperformance
+Rapports mensuels et trimestriels
+Rapports annuels 
+
+## Kommunikation in Industrie. Als Folge von Gesetzen, die in Kraft treten (photos, examples) 
+
+## Kommunikation von Systemen (Unternehmen, Institutionen etc.): Schulung (photos, examples)
+
+
+----
 
 ## Notre exclusivité
 
