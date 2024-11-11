@@ -1,12 +1,11 @@
 ---
 title: Track Record
-menu: main
 ---
 
 Depuis / seit / 始于[1999](/pdf/track-record/track-record.pdf)年
 
 **[Exposure & Outperformance](/pdf/track-record/exposition.pdf)**  
-     
+
 2024
 : [mensuel / Monat](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2024.pdf) [2](/pdf/track-record/T2-2024.pdf) [3](/pdf/track-record/T3-2024.pdf) /

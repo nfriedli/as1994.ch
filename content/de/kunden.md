@@ -2,6 +2,7 @@
 title: Kunden
 translationKey: clients
 menu: main
+weight: 40
 ---
 
 Some corporates, administrations, universities & institutes of technology who have been counting on AS since 1994 (published by consent).

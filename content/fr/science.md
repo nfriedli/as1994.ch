@@ -2,6 +2,7 @@
 title: Science
 translationKey: science
 menu: main
+weight: 30
 ---
 
 ## Recherche de pointe

@@ -1,6 +1,21 @@
 <header>
-    <img src="/images/as.svg" alt="Logo Asset Services SA" height="60">
+    <div id="logo">
 
+        <img src="/images/as.svg" alt="Logo Asset Services SA" height="60">
+
+        <div>
+        {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+            {{ if eq .Lang page.Lang }}
+            {{ .Language.LanguageName }}
+            {{ else }}
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            {{ end }}
+        {{ end}}
+        {{ end }}
+        </div>
+    </div>
+    
     <nav>
         {{ $current := .RelPermalink}}
         {{ range site.Menus.main }}
@@ -11,15 +26,7 @@
             {{ end }}
         {{ end }}
 
-        {{ if .IsTranslated }} <span>/</span>
-        {{ range .AllTranslations }}
-            {{ if eq .Lang page.Lang }}
-            {{ .Language.LanguageName }}
-            {{ else }}
-            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-            {{ end }}
-        {{ end}}
-        {{ end }}
+
 
     </nav>
 

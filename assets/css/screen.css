@@ -22,6 +22,10 @@ body {
     max-width: 66ch;
 }
 
+main {
+    min-height: 40vh;
+}
+
 h1,
 h2,
 h3,
@@ -74,20 +78,21 @@ a {
 }
 
 header {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    gap: 1rem;
-    justify-content: space-between;
-    align-items: start;
     border-bottom: 2px solid #CCC;
     padding-bottom: 1rem;
+}
+
+div#logo {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
 }
 
 nav {
     display: flex;
     flex-wrap: wrap;
     gap: .5rem 1rem;
+    margin-block-start: 2rem;
 }
 
 main {

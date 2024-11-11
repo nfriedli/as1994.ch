@@ -1,7 +1,6 @@
 ---
 title: Wir
 translationKey: nous
-menu: main
 ---
 
 ## lic. iur. Maja Wuerth-Neukomm

@@ -2,6 +2,7 @@
 title: Wirtschaft
 menu: main
 translationKey: economie
+weight: 10
 ---
 
 

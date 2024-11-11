@@ -1,5 +1,5 @@
 ---
-title: Recht
+title: Droit
 translationKey: droit
 menu: main
 weight: 20
