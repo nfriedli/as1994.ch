@@ -1,50 +1,47 @@
 ---
 title: Science
 translationKey: science
+menu: main
 ---
 
 ## Recherche de pointe
 
-2008 – 2011 Collaboration scientifique dans le projet de re-
-cherche du Fonds National Suisse sur le sujet « Media,
-Emotions et Marchés financiers ».
-Recherche empirique et modélisation économique sous la di-
-rection des professeurs Wirth, Université Zurich / Institut für
-Publizistik- und Medienwissenschaft et Hens, Universi-
-té Zurich / Swiss Banking Institute
+2008 – 2011 Wissenschaftliche Mitarbeit im Forschungsprojekt
+des Schweizerischen Nationalfonds zum Thema « Medien, Emotionen und Finanzmärkte »
+Empirische Untersuchung und ökonomische Modellierung unter
+der Leitung der Professoren Wirth, Universität Zürich / Institut für
+Publizistik- und Medienwissenschaft und Hens, Universität Zürich
+/ Swiss Banking Institute
 
-2002 Manuel de la politique suisse,
-3e édition. Système des médias et communication politique
+2002 Handbuch der Schweizer Politik
+3. Auflage. Mediensystem und politische Kommunikation
 
-2001 EPFL / University of Geneva / HEC GE Entrepreneur-
-ship
+2001 EPFL / University of Geneva / HEC GE Entrepreneurship
 
 1999 Promotion Dr. sc. soc.
 
-1999 Manuel de la politique suisse.
-Système des médias et communication politique
+1999 Handbuch der Schweizer Politik
+Mediensystem und politische Kommunikation
 
-1999 Review d / f
+1999 Rezension d / f
 http://www.as1994.ch/Horizonte.pdf
 http://www.as1994.ch/Horizons.pdf
 
-1999 « La SSR et sa mission d’intégration » éd. Haupt Berne
+1999 « Die SRG und ihr Integrationsauftrag » Verlag Haupt Bern
 
-1998 Décision du FNS pour des subsides de publication des
-résultats de recherche. Distinction « excellente qualité scienti-
-fique »
+1998 Entscheid des SNF, die Publikation der Forschungsresultate zu finanzieren; Prädikat « hohe wissenschaftliche Qualität »
 
 1997 Swiss Political Science Review
 
-1994 – 1998 Travail de recherche
+1994 – 1998 Forschungsarbeit
 
-1994 Décision du Fonds National Suisse de la recherche
-scientifique et l’Office fédéral de la Communication (OFCOM)
-de financer le projet de recherche « La SSR et sa mission
-d’intégration »
+1994 Entscheid des Schweizerischen Nationalfonds zur Förderung der wissenschaftlichen Forschung und des Bundesamtes
+für Kommunikation (Bakom), das Forschungsprojekt « Die SRG
+und ihr Integrationsauftrag » zu finanzieren
 
-1994 Licence « Formation journalistique et soulèvement po-
-pulaire en RDA » enquête de terrain à Leipzig et Berlin
+1994 Lizentiat « Journalistenausbildung im Zeichen der Wende.
+Eine systemtheoretische Analyse der Ausbildung von Journalisten an der Karl-Marx-Universität Leipzig unter besonderem Einbezug der politischen Umwälzung ». Feldforschung in Leipzig
+und Berlin
 
 2013 Medien als Institutionen und Organisationen
 

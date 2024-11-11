@@ -39,6 +39,10 @@ La **liquidité** de nos portefeuilles Global, Swiss et China est constamment tr
 
 [Indicateurs](#) de risques
 
-## Kommunikation in Industrie. Als Folge von Gesetzen, die in Kraft treten (photos, examples) 
+## Kommunikation in Industrie. Als Folge von Gesetzen, die in Kraft treten 
 
-## Kommunikation von Systemen (Unternehmen, Institutionen etc.): Schulung (photos, examples)
+(photos, examples) 
+
+## Kommunikation von Systemen (Unternehmen, Institutionen etc.): Schulung 
+
+(photos, examples)

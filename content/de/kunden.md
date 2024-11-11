@@ -1,7 +1,7 @@
 ---
 title: Kunden
-menu: main
 translationKey: clients
+menu: main
 ---
 
 Some corporates, administrations, universities & institutes of technology who have been counting on AS since 1994 (published by consent).

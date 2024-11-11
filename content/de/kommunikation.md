@@ -1,6 +1,7 @@
 ---
 title: Kommunikation
 translationKey: communication
+menu: main
 ---
 
-Kommunikation ist soziale Interaktion, es wird codiert, selektioniert, decodiert und attribuiert zwecks Gewinn (Wirtschaft), Frieden (Recht) und Ordnung (Science).
+Kommunikation ist soziale Interaktion, es wird codiert, selektioniert, decodiert und attribuiert zwecks Gewinn ([Wirtschaft]({{< relref "wirtschaft" >}})), Frieden ([Recht]({{< relref "recht" >}})) und Ordnung ([Science]({{< relref "science" >}})).

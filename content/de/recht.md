@@ -1,6 +1,7 @@
 ---
 title: Recht
 translationKey: droit
+menu: main
 ---
 
 ## Droit 1er / 2e / 3e pilier

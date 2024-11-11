@@ -26,23 +26,44 @@ h1,
 h2,
 h3,
 h4 {
-    line-height: 1.1;
+    line-height: 1.2;
     text-wrap: balance;
 }
 
 h1 {
-    font-size: 2rem;
-    font-weight: 500;
-    margin-block: 2rem;
-}
-
-:not(h1) + h2 {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     margin-block: 2rem 1rem;
 }
 
-li {
+h2 {
+    font-size: 1.5rem;
+    margin-block: 2rem 1rem;
+}
+
+h3 {
+    font-size: 1.3em;
+}
+
+li{
     margin-top: .5rem;
+}
+
+ul.nolist {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nolist li {
+    margin-top: 1rem;
+}
+
+dt {
+    font-weight: 700;
+    margin-block-start: 1rem;
+}
+
+dd {
+    margin-inline-start: 1rem;
 }
 
 a {
