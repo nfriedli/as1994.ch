@@ -50,36 +50,88 @@ pulaire en RDA » enquête de terrain à Leipzig et Berlin
 
 ## Enseignement académique (prends PDF)
 
-glaTec / ETH - Entrepreneurship 2021
-glaTec / ETH - Entrepreneurship 2020
-glaTec / ETH - Entrepreneurship 2019
+glaTec / ETH - Empa  
+Entrepreneurship 2021
+
+glaTec / ETH - Empa  
+Entrepreneurship 2020
+
+glaTec / ETH - Empa  
+Entrepreneurship 2019
+
+Shenzhen Technology University  
 Entrepreneurship & Financial markets 2019
-glaTec / ETH - Entrepreneurship 2018
+
+glaTec / ETH - Empa  
+Entrepreneurship 2018
+
+University of Zurich  
 Financial markets and communication 2018
-glaTec / ETH - Entrepreneurship 2017
-ieLab / ETH Zurich Entrepreneurship 2017
-glaTec / ETH - Entrepreneurship 2016
+
+glaTec / ETH - Empa  
+Entrepreneurship 2017
+
+ieLab / ETH Zurich  
+Entrepreneurship 2017
+
+glaTec / ETH - Empa  
+Entrepreneurship 2016
+
+University of Zurich  
 Financial markets and communication 2016
-交流中的技术 –
-Communication in Technology 2015
+
+Tongji University  
+交流中的技术 – Communication in Technology 2015
+
 glaTec / ETH - Entrepreneurship 2015
+
+Newhuadu Business School  
 Swiss Entrepreneurship 2014
+
+University of Zurich  
 Financial markets and communication 2014
+
+University of Zurich  
 Financial markets and communication 2013
-glaTec / ETH - Entrepreneurship 2013
+
+glaTec / ETH - Empa  
+Entrepreneurship 2013
+
+University of Zurich  
 Financial markets and communication 2012
-Investment Banking 2008 - 2012
-Portfolio Management 2008 - 2012
-Risk Management 2008 - 2012
+
+Akad Banking+Finance  
+Investment Banking 2008-2012
+
+Akad Banking+Finance  
+Portfolio Management 2008-2012
+
+Akad Banking+Finance  
+Risk Management 2008-2012
+
+University of Zurich  
 Financial markets and communication 2011
-Conference «The Significance of Media
-in Science and Research »
-2011
+
+University of Zurich  
+Conference «The Significance of Media in Science and Research » 2011
+
+University of Zurich  
 Media effects and stock prices 2010
+
+University of Zurich  
 Financial markets and communication 2009
+
+University of Zurich  
 Financial markets and communication 2008
+
+University of Zurich  
 Financial markets and communication 2007
+
+University of Zurich  
 Financial markets and communication 2005
+
+University of Zurich  
 Financial markets and communication 2003
 
+EPFL  
 Entrepreneurship 2001
