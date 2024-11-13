@@ -5,7 +5,7 @@ translationKey: clients
 weight: 40
 ---
 
-Some corporates, administrations, universities & institutes of technology who have been counting on AS since 1994 (published by consent).
+Quelques entreprises, administrations, universités et instituts de technologie qui font confiance à AS depuis 1994 (publié par consentement).
 
 ## Industrie
 

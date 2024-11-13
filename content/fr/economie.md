@@ -23,20 +23,28 @@ La **liquidité** de nos portefeuilles Global, Swiss et China est constamment tr
 
 ## Notre instrument
 
-**Global Sentiment Exposure Index (G-SEI)** Description   Abo
+**Global Sentiment Exposure Index (G-SEI)** [Description](/pdf/GSEI-fr.pdf) [Abo](/pdf/GSEI-Abo-fr.pdf)
 
 ## Notre Track Record
 
-- Exposition & Outperformance
-- Rapports mensuels et trimestriels
-- Rapports annuels
+- [Exposition](/pdf/track-record/exposition.pdf) & Outperformance
+- [Rapports]({{< relref "track-record" >}}) mensuels et trimestriels
+- [Rapports](/pdf/track-record/track-record.pdf) annuels
 
 ## Notre philosophie d’investissement
 
 1. Performance optimale, pas maximale
 2. Outperformance, pas de performance absolue
 
-[Indicateurs](#) de risques
+Indicateurs de risques
+
+## Kommunikation in Industrie. Als Folge von Gesetzen, die in Kraft treten 
+
+(photos, examples) -> français
+
+## Kommunikation von Systemen (Unternehmen, Institutionen etc.): Schulung 
+
+(photos, examples) -> français
 
 ## Publications
 

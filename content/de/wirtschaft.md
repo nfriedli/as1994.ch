@@ -8,37 +8,37 @@ weight: 10
 
 ## Kommunikation in Financial Markets: Mesure de sentiment des Developed Stock Markets    
 	
-### Notre exclusivité
+### Unsere Exklusivität
 
-Notre gestion des risques est la seule à:
+Unser Risk Management:
 
-- travailler avec la **psychologie** et les **émotions**
-- se fonder sur la théorie des **systèmes**, les sciences de la **communication** et du **comportement**
-- travailler d’une manière **progressive** et non mécanique
+- arbeitet wirklich mit **Psychologie** und **Emotionen**
+- basiert auf der **Systemtheorie** und wendet **Kommunikations**- und **Behavioral**-Wissenschaft an
+- arbeitet prozesshaft, nicht mechanisch
 
-Notre processus:
+Unser Investment Process:
 
-- ne peut pas être copié
-- ne peut pas être testé rétroactivement (backward)
+- kann nicht kopiert werden
+- kann nicht backward getestet werden
 
-La **liquidité** de nos portefeuilles Global, Swiss et China est constamment très haute.
+Die **Liquidität** unserer Portefeuilles Global, Swiss und China ist konstant sehr hoch.
 
-### Notre instrument
+### Unser Instrument
 
-**Global Sentiment Exposure Index (G-SEI)** Description   Abo
+**Global Sentiment Exposure Index (G-SEI)** [Beschreibung](/pdf/GSEI-de.pdf) [Abo](/pdf/GSEI-Abo-de.pdf)
 
-### Notre Track Record
+### Unser Track Record
 
-- Exposition & Outperformance
-- Rapports mensuels et trimestriels
-- Rapports annuels
+- [Exposure](/pdf/track-record/exposition.pdf) & Outperformance
+- [Berichte]({{< relref "track-record" >}}) Monat & Quartal
+- [Berichte](/pdf/track-record/track-record.pdf) Jahr
 
-### Notre philosophie d’investissement
+### Unsere Investment Philosophie
 
-1. Performance optimale, pas maximale
-2. Outperformance, pas de performance absolue
+1. Optimale, nicht maximale Performance
+2. Outperformance, nicht absolute Performance
 
-[Indicateurs](#) de risques
+Risikokennzahlen
 
 ## Kommunikation in Industrie. Als Folge von Gesetzen, die in Kraft treten 
 

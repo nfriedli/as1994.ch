@@ -5,7 +5,7 @@ menu: main
 weight: 40
 ---
 
-Some corporates, administrations, universities & institutes of technology who have been counting on AS since 1994 (published by consent).
+Einige Unternehmen, Verwaltungen, Universitäten und technische Hochschulen, die seit 1994 auf AS zählen (Veröffentlichung mit Zustimmung).
 
 ## Industrie
 
@@ -154,7 +154,7 @@ Some corporates, administrations, universities & institutes of technology who ha
 </div>
 
 
-## Confédération & Cantons
+## Eidgenossenschaft & Kantone
 
 <div class="logos">
 
