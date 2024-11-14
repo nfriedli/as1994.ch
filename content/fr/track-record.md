@@ -7,54 +7,46 @@ Depuis / seit / 始于[1999](/pdf/track-record/track-record.pdf)年
 **[Exposure & Outperformance](/pdf/track-record/exposition.pdf)**  
 
 2024
-: [mensuel / Monat](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2024.pdf) [2](/pdf/track-record/T2-2024.pdf) [3](/pdf/track-record/T3-2024.pdf) /
     Quartal: [1](/pdf/track-record/Q1-2024.pdf) [2](/pdf/track-record/Q2-2024.pdf) [3](/pdf/track-record/Q3-2024.pdf)
 
 2023
-: [mensuel / Monat / 提高](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2023.pdf) [2](/pdf/track-record/T2-2023.pdf) [3](/pdf/track-record/T3-2023.pdf)
     [4](/pdf/track-record/T4-2023.pdf) / Quartal: [1](/pdf/track-record/Q1-2023.pdf) [2](/pdf/track-record/Q2-2023.pdf)
     [3](/pdf/track-record/Q3-2023.pdf) [4](/pdf/track-record/Q4-2023.pdf) / 季度投资者报告: [1](/pdf/track-record/C1-2023.pdf)
     [2](/pdf/track-record/C2-2023.pdf) [3](/pdf/track-record/C3-2023.pdf) [4](/pdf/track-record/C4-2023.pdf)
 
 2022
-: [mensuel / Monat / 提高](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2022.pdf) [2](/pdf/track-record/T2-2022.pdf) [3](/pdf/track-record/T3-2022.pdf)
     [4](/pdf/track-record/T4-2022.pdf) / Quartal: [1](/pdf/track-record/Q1-2022.pdf) [2](/pdf/track-record/Q2-2022.pdf)
     [3](/pdf/track-record/Q3-2022.pdf) [4](/pdf/track-record/Q4-2022.pdf) / 季度投资者报告: [1](/pdf/track-record/C1-2022.pdf)
     [2](/pdf/track-record/C2-2022.pdf) [3](/pdf/track-record/C3-2022.pdf) [4](/pdf/track-record/C4-2022.pdf)
 
 2021
-: [mensuel / Monat / 提高](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2021.pdf) [2](/pdf/track-record/T2-2021.pdf) [3](/pdf/track-record/T3-2021.pdf)
     [4](/pdf/track-record/T4-2021.pdf) / Quartal: [1](/pdf/track-record/Q1-2021.pdf) [2](/pdf/track-record/Q2-2021.pdf)
     [3](/pdf/track-record/Q3-2021.pdf) [4](/pdf/track-record/Q4-2021.pdf) / 季度投资者报告: [1](/pdf/track-record/C1-2021.pdf)
     [2](/pdf/track-record/C2-2021.pdf) [3](/pdf/track-record/C3-2021.pdf) [4](/pdf/track-record/C4-2021.pdf)
 
 2020
-: [mensuel / Monat / 提高](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2020.pdf) [2](/pdf/track-record/T2-2020.pdf) [3](/pdf/track-record/T3-2020.pdf)
     [4](/pdf/track-record/T4-2020.pdf) / Quartal: [1](/pdf/track-record/Q1-2020.pdf) [2](/pdf/track-record/Q2-2020.pdf)
     [3](/pdf/track-record/Q3-2020.pdf) [4](/pdf/track-record/Q4-2020.pdf) / 季度投资者报告: [1](/pdf/track-record/C1-2020.pdf)
     [2](/pdf/track-record/C2-2020.pdf) [3](/pdf/track-record/C3-2020.pdf) [4](/pdf/track-record/C4-2020.pdf)
 
 2019
-: [mensuel / Monat / 提高](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2019.pdf) [2](/pdf/track-record/T2-2019.pdf) [3](/pdf/track-record/T3-2019.pdf)
     [4](/pdf/track-record/T4-2019.pdf) / Quartal: [1](/pdf/track-record/Q1-2019.pdf) [2](/pdf/track-record/Q2-2019.pdf)
     [3](/pdf/track-record/Q3-2019.pdf) [4](/pdf/track-record/Q4-2019.pdf) / 季度投资者报告: [1](/pdf/track-record/C1-2019.pdf)
     [2](/pdf/track-record/C2-2019.pdf) [3](/pdf/track-record/C3-2019.pdf) [4](/pdf/track-record/C4-2019.pdf)
 
 2018
-: [mensuel / Monat / 提高](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2018.pdf) [2](/pdf/track-record/T2-2018.pdf) [3](/pdf/track-record/T3-2018.pdf)
     [4](/pdf/track-record/T4-2018.pdf) / Quartal: [1](/pdf/track-record/Q1-2018.pdf) [2](/pdf/track-record/Q2-2018.pdf)
     [3](/pdf/track-record/Q3-2018.pdf) [4](/pdf/track-record/Q4-2018.pdf) / 季度投资者报告: [1](/pdf/track-record/C1-2018.pdf)
     [2](/pdf/track-record/C2-2018.pdf) [3](/pdf/track-record/C3-2018.pdf) [4](/pdf/track-record/C4-2018.pdf)
 
 2017
-: [mensuel / Monat / 提高](/pdf/track-record/../month/)
 : trimestriel: [1](/pdf/track-record/T1-2017.pdf) [2](/pdf/track-record/T2-2017.pdf) [3](/pdf/track-record/T3-2017.pdf)
     [4](/pdf/track-record/T4-2017.pdf) / Quartal: [1](/pdf/track-record/Q1-2017.pdf) [2](/pdf/track-record/Q2-2017.pdf)
     [3](/pdf/track-record/Q3-2017.pdf) [4](/pdf/track-record/Q4-2017.pdf) / 季度投资者报告: [1](/pdf/track-record/C1-2017.pdf)
