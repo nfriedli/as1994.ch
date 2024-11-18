@@ -109,7 +109,7 @@ Quelques entreprises, administrations, universités et instituts de technologie 
 
 </div>
 
-## Academia
+## Science
 
 <div class="logos">
 

@@ -18,9 +18,10 @@ Depuis 1994 notre section de droit élabore des textes juridiques en allemand, f
 
 ## Médiation
 
-Ein Rechtsstreit beschäftigt Sie ? Lösung: Schlichten statt Richten mit Streitbeilegung durch Mediation / interpersonaler Kommunikation (Art. 197 ff., Art. 213 ff. ZPO).
-Auch ein Gerichtsverfahren legt Streit bei: autoritär, mit unberechenbarem Ausgang, ausufernden Kosten und nicht endenden Rechtsmitteln (je nach Raffinesse des Anwalts/der Anwältin und der Betuchtheit der Partei).  
-
-Mediation hingegen, das vom Rechtsstaat gewollte aussergerichtliche Streitschlichtungsverfahren, liefert schneller, günstiger und weniger aufreibend. Es ist vertraulich, freiwillig, in allen Rechtsgebieten, national und international anwend- und jederzeit durchführbar (auch bei laufenden Gerichtsverfahren). 
-
+Ein Rechtsstreit beschäftigt Sie ? Lösung: Schlichten statt Richten mit Streitbeilegung durch Mediation / interpersonaler Kommunikation (Art. 197 ff., Art. 213 ff. ZPO). Auch ein Gerichtsverfahren legt Streit bei: autoritär, mit unberechenbarem Ausgang, ausufernden Kosten und nicht endenden Rechtsmitteln (je nach Raffinesse des Anwalts/der Anwältin und der Betuchtheit der Partei).
+Mediation hingegen, das vom Rechtsstaat gewollte aussergerichtliche Streitschlichtungsverfahren, liefert schneller, günstiger und weniger aufreibend. Es ist vertraulich, freiwillig, in allen Rechtsgebieten, national und international anwend- und jederzeit durchführbar (auch bei laufenden Gerichtsverfahren).
 Wir liefern die Lösung oder öffnen den Weg zur Klagebewilligung (Art. 209 Abs. 1 i.V.m. Art. 213 ZPO).
+
+## Communication dans le droit (psychologie du droit)
+
+Depuis 1995 nous menons des workshops sur la communication de l’économie, de l’armée et depuis 2024 du droit : « information processing » lors des moyens de preuves art. 139 ss CPP et des témoins art. 162 ss CPP).

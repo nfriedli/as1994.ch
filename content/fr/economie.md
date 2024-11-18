@@ -6,7 +6,9 @@ translationKey: economie
 weight: 10
 ---
 
-## Notre exclusivité
+## Communication dans les marchés financiers : Mesure de sentiment des Developed Stock Markets 
+
+### Notre exclusivité
 
 Notre gestion des risques est la seule à:
 
@@ -21,30 +23,29 @@ Notre processus:
 
 La **liquidité** de nos portefeuilles Global, Swiss et China est constamment très haute.
 
-## Notre instrument
+### Notre instrument
 
 **Global Sentiment Exposure Index (G-SEI)** [Description](/pdf/GSEI-fr.pdf) [Abo](/pdf/GSEI-Abo-fr.pdf)
 
-## Notre Track Record
+### Notre Track Record
 
 - [Exposition](/pdf/track-record/exposition.pdf) & Outperformance
 - [Rapports]({{< relref "track-record" >}}) mensuels et trimestriels
 - [Rapports](/pdf/track-record/track-record.pdf) annuels
 
-## Notre philosophie d’investissement
+## Communication dans l’industrie
 
-1. Performance optimale, pas maximale
-2. Outperformance, pas de performance absolue
+Documentation technique
 
-Indicateurs de risques
+(photos, examples)
 
-## Kommunikation in Industrie. Als Folge von Gesetzen, die in Kraft treten 
 
-(photos, examples) -> français
+## Communication des systèmes (entreprises, institutions, politiques, massmédias etc.)
 
-## Kommunikation von Systemen (Unternehmen, Institutionen etc.): Schulung 
+Workshops sur la fonction/dysfonction de la communication
 
-(photos, examples) -> français
+(photos, examples)
+
 
 ## Publications
 
