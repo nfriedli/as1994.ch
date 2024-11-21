@@ -1,8 +1,5 @@
 ---
 title: AS Asset Services SA
-linkTitle: Accueil
-menu: main
-weight: 1
 ---
 
 Depuis 1994, [nous]({{< relref "nous" >}}) élaborons des solutions pour nos [clients]({{< relref "clients" >}}) avec la [communication]({{< relref "communication" >}})  dans les domaines de l'[économie]({{< relref "economie" >}}), du [droit]({{< relref "droit" >}}) et de la [science]({{< relref "science" >}}).

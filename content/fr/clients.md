@@ -7,6 +7,8 @@ weight: 40
 
 Quelques entreprises, administrations, universités et instituts de technologie qui font confiance à AS depuis 1994 (publié par consentement).
 
+{{< toc >}}
+
 ## Industrie
 
 <div class="logos">

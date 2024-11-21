@@ -95,10 +95,12 @@ main {
     margin-block: 4rem;
 }
 
-
-
 address {
     font-style: normal;
+}
+
+img {
+    max-width: 100%;
 }
 
 .big {

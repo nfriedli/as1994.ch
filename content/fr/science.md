@@ -5,6 +5,8 @@ menu: main
 weight: 30
 ---
 
+{{< toc >}}
+
 ## Recherche de pointe
 
 **2008 – 2011** Collaboration scientifique dans le projet de re-
@@ -138,3 +140,31 @@ Financial markets and communication (2003)
 
 **EPFL**  
 Entrepreneurship (2001)
+
+----
+
+## Test de mise en page
+
+### Université de Zurich 
+
+- Financial markets and communication (2009)
+- Financial markets and communication (2008)
+- Financial markets and communication (2007)
+- Financial markets and communication (2005)
+- Financial markets and communication (2003)
+
+### Fondation glaTex
+
+- Entrepreneurship (2021)
+- Entrepreneurship (2020)
+- Entrepreneurship (2019)
+- Entrepreneurship (2018)
+
+### Universités chinoises
+
+- **Shenzhen Technology University**  
+  Entrepreneurship & Financial markets (2019)
+- **Tongji University**  
+  交流中的技术 – Communication in Technology (2015)
+
+Etc. etc.
