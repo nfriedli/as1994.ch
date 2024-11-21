@@ -77,10 +77,6 @@ a {
     text-underline-offset: .2ch;
 }
 
-header {
-    border-bottom: 2px solid #CCC;
-    padding-bottom: 1rem;
-}
 
 div#logo {
     display: flex;
@@ -99,11 +95,7 @@ main {
     margin-block: 4rem;
 }
 
-footer {
-    border-top: 2px solid #CCC;
-    margin-top: 4rem;
-    padding-top: 1rem;
-}
+
 
 address {
     font-style: normal;
