@@ -1,19 +1,24 @@
 <header>
-    <div id="logo">
 
-        <img src="/images/as.svg" alt="Logo Asset Services SA" height="60">
-
-        <div>
-        {{ if .IsTranslated }}
-        {{ range .AllTranslations }}
-            {{ if eq .Lang page.Lang }}
-            {{ .Language.LanguageName }}
-            {{ else }}
-            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-            {{ end }}
-        {{ end}}
+    <div id="languages">
+    {{ if .IsTranslated }}
+    {{ range .AllTranslations }}
+        {{ if eq .Lang page.Lang }}
+        {{ .Language.LanguageName }}
+        {{ else }}
+        <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
         {{ end }}
-        </div>
+    {{ end}}
+    {{ end }}
+    </div>
+
+    <div id="logo">
+    <div id="as">
+        AS
+    </div>
+    <div id="slogan">
+        AS Asset Services SA
+    </div>
     </div>
     
     <nav>

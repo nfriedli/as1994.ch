@@ -78,31 +78,40 @@ a {
 }
 
 header {
-    border-bottom: 2px solid #CCC;
-    padding-bottom: 1rem;
+    text-align: center;
 }
 
-div#logo {
-    display: flex;
-    gap: 1rem;
-    justify-content: space-between;
+#languages {
+    text-align: right;
+}
+
+#logo {
+    font-family: var(--serif);
+    line-height: 1;
+}
+
+#as {
+    font-size: 5rem;
+}
+
+#slogan {
+    font-size: 1.2rem;
 }
 
 nav {
     display: flex;
     flex-wrap: wrap;
     gap: .5rem 1rem;
+    justify-content: center;
     margin-block-start: 2rem;
 }
 
 main {
-    margin-block: 4rem;
+    margin-block: 6rem;
 }
 
 footer {
-    border-top: 2px solid #CCC;
     margin-top: 4rem;
-    padding-top: 1rem;
 }
 
 address {

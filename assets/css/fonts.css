@@ -1,4 +1,9 @@
+:root {
+    --sans: ui-sans-serif, Roboto, Inter, Arial, system-ui, sans-serif;
+    --serif: "Times New Roman", ui-serif, var(--sans);
+}
+
 html {
-    font-family: ui-sans-serif, Roboto, Inter, Arial, system-ui, sans-serif;
+    font-family: var(--sans);
     font-variant-ligatures: none;
 }
