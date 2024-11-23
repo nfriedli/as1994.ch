@@ -21,13 +21,13 @@ writeStats = false
 [languages.fr]
 contentDir = "content/fr"
 languageCode = "fr-CH"
-languageName = "fr"
+languageName = "FR"
 weight = 10
 
 [languages.de]
 contentDir = "content/de"
 languageCode = "de-CH"
-languageName = "de"
+languageName = "DE"
 weight = 20
 
 [markup.goldmark.parser]

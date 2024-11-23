@@ -151,8 +151,8 @@ Quartal: 1 2 3
 2000
 Quartal: 4
 ">
-<style>html{font-family:ui-sans-serif,Roboto,Inter,Arial,system-ui,sans-serif;font-variant-ligatures:none}</style>
-<style media="screen">:root{color-scheme:light}*,*::before,*::after{box-sizing:border-box}html{background:#fff;color:#000;font-size:100%;line-height:1.5;text-wrap:pretty}body{padding:1rem;margin:auto;max-width:66ch}main{min-height:40vh}h1,h2,h3,h4{line-height:1.2;text-wrap:balance}h1{font-size:1.8rem;margin-block:2rem 1rem}h2{font-size:1.5rem;margin-block:2rem 1rem}h3{font-size:1.3em}li{margin-top:.5rem}ul.nolist{list-style-type:none;padding:0}.nolist li{margin-top:1rem}dt{font-weight:700;margin-block-start:1rem}dd{margin-inline-start:1rem}a{color:unset;text-decoration-color:darkred;text-decoration-thickness:.2ch;text-underline-offset:.2ch}div#logo{display:flex;gap:1rem;justify-content:space-between}nav{display:flex;flex-wrap:wrap;gap:.5rem 1rem;margin-block-start:2rem}main{margin-block:4rem}address{font-style:normal}img{max-width:100%}.big{font-size:1.2rem;font-weight:500}div.logos{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));grid-auto-flow:row;gap:2rem;align-items:center;width:100%;justify-content:space-between;margin-block:2rem 4rem}.logos img,.logos span{font-size:.8rem;object-fit:contain;height:auto;max-height:80px;max-width:120px}</style>
+<style>:root{--sans:ui-sans-serif, Roboto, Inter, Arial, system-ui, sans-serif;--serif:"Times New Roman", ui-serif, var(--sans)}html{font-family:var(--sans);font-variant-ligatures:none}</style>
+<style media="screen">:root{color-scheme:light}*,*::before,*::after{box-sizing:border-box}html{background:#fff;color:#000;font-size:100%;line-height:1.5;text-wrap:pretty}body{padding:1rem;margin:auto;max-width:66ch}main{min-height:40vh}h1,h2,h3,h4{line-height:1.2;text-wrap:balance}h1{font-size:1.8rem;margin-block:2rem 1rem}h2{font-size:1.5rem;margin-block:2rem 1rem}h3{font-size:1.3em}li{margin-top:.5rem}ul.nolist{list-style-type:none;padding:0}.nolist li{margin-top:1rem}dt{font-weight:700;margin-block-start:1rem}dd{margin-inline-start:1rem}a{color:unset;text-decoration-color:darkred;text-decoration-thickness:.2ch;text-underline-offset:.2ch}header{text-align:center}#languages{display:flex;gap:1rem;justify-content:end}#logo{font-family:var(--serif);line-height:1}#as{font-size:5rem}#slogan{font-size:1.2rem}header nav{display:flex;flex-wrap:wrap;gap:.5rem 1rem;justify-content:center;margin-block-start:2rem}main{margin-block:6rem}footer{margin-top:4rem}address{font-style:normal}img{max-width:100%}.big{font-size:1.2rem;font-weight:500}div.logos{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));grid-auto-flow:row;gap:2rem;align-items:center;width:100%;justify-content:space-between;margin-block:2rem 4rem}.logos img,.logos span{font-size:.8rem;object-fit:contain;height:auto;max-height:80px;max-width:120px}</style>
 <style media="print">@page{margin:2cm}*{background-color:unset;color:#000}header,footer{display:none}pre{white-space:pre-wrap}a::after{content:" [" attr(href)"] "}</style>
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml">
@@ -162,11 +162,16 @@ Quartal: 4
 </head>
 <body>
 <header>
+<div id="languages">
+FR
+<a href="https://as1994.netlify.app/de/track-record/">DE</a>
+</div>
 <div id="logo">
-<img src="/images/as.svg" alt="Logo Asset Services SA" height="60">
-<div>
-fr
-<a href="https://as1994.netlify.app/de/track-record/">de</a>
+<div id="as">
+AS
+</div>
+<div id="slogan">
+AS Asset Services SA
 </div>
 </div>
 <nav>
