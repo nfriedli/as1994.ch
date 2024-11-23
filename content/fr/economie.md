@@ -1,10 +1,11 @@
 ---
-title: Gestion des risques dans les marchés financiers
-linkTitle: Économie
+title: Économie
 menu: main
 translationKey: economie
 weight: 10
 ---
+
+{{< toc >}}
 
 ## Communication dans les marchés financiers : Mesure de sentiment des Developed Stock Markets 
 
@@ -35,17 +36,18 @@ La **liquidité** de nos portefeuilles Global, Swiss et China est constamment tr
 
 ## Communication dans l’industrie
 
-Documentation technique
+Réalisation complète de **documentation technique**, notamment des modes d'emploi.
+Rédaction en français, allemand et anglais.
 
-(photos, examples)
+![Kern](/images/photos/kern.jpg)
 
+## Communication dans des workshops
 
-## Communication des systèmes (entreprises, institutions, politiques, massmédias etc.)
+Workshops sur les fonctionnements et dysfonctionnements de la communication pour des entreprises, institutions, politiques, massmédias etc.
 
-Workshops sur la fonction/dysfonction de la communication
+![CDE2000](/images/photos/cde2000.jpg)
 
-(photos, examples)
-
+![Workshop](/images/photos/workshop.jpg)
 
 ## Publications
 

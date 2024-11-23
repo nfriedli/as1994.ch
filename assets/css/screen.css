@@ -118,6 +118,10 @@ address {
     font-style: normal;
 }
 
+img {
+    max-width: 100%;
+}
+
 .big {
     font-size: 1.2rem;
     font-weight: 500;
