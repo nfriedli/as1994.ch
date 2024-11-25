@@ -7,23 +7,19 @@ weight: 10
 
 {{< toc >}}
 
-## Communication dans les marchés financiers : Mesure de sentiment des Developed Stock Markets 
+## Communication dans les marchés financiers
 
-### Notre exclusivité
-
-Notre gestion des risques est la seule à:
+**Notre exclusivité.** Notre gestion des risques est la seule à:
 
 - travailler avec la **psychologie** et les **émotions**
 - se fonder sur la théorie des **systèmes**, les sciences de la **communication** et du **comportement**
 - travailler d’une manière **progressive** et non mécanique
 
-### Notre instrument
-
-**Global Sentiment Exposure Index (G-SEI)** [Description](/pdf/GSEI-fr.pdf) [Abo](/pdf/GSEI-Abo-fr.pdf)
+**Notre instrument.** Global Sentiment Exposure Index (G-SEI) [Description](/pdf/GSEI-fr.pdf) [Abo](/pdf/GSEI-Abo-fr.pdf)
 
 ![GSEI](/images/photos/gsei.jpg)
 
-### Notre Track Record
+**Notre Track Record:**
 
 - [Exposition](/pdf/track-record/exposition.pdf) & Outperformance
 - [Rapports]({{< relref "track-record" >}}) mensuels et trimestriels
