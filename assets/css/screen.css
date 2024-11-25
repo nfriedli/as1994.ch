@@ -28,28 +28,32 @@ main {
 
 h1,
 h2,
-h3,
-h4 {
+h3 {
     line-height: 1.2;
     text-wrap: balance;
 }
 
 h1 {
-    font-size: 1.8rem;
+    font-size: 1.728rem;
     margin-block: 2rem 1rem;
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 1.44rem;
     margin-block: 2rem 1rem;
 }
 
 h3 {
-    font-size: 1.3em;
+    font-size: 1.2em;
+}
+
+ul {
+    padding-inline-start: 1rem;
 }
 
 li{
-    margin-top: .5rem;
+    margin-block: .5rem;
+    list-style-type: square;
 }
 
 ul.nolist {
@@ -59,6 +63,7 @@ ul.nolist {
 
 .nolist li {
     margin-top: 1rem;
+    list-style-type: none;
 }
 
 dt {
@@ -77,13 +82,9 @@ a {
     text-underline-offset: .2ch;
 }
 
-header {
-    text-align: center;
-
-}
-
 #languages {
     display: flex;
+    float: right;
     gap: 1rem;
     justify-content: end;
 }
@@ -109,7 +110,6 @@ header nav {
     display: flex;
     flex-wrap: wrap;
     gap: .5rem 1rem;
-    justify-content: center;
     margin-block-start: 2rem;
 }
 
@@ -146,4 +146,8 @@ div.logos {
     height: auto;
     max-height: 80px;
     max-width: 120px;
+}
+
+.home :is(h1, nav) {
+    display: none;
 }
