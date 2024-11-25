@@ -14,7 +14,8 @@
 
     <div id="logo">
     <div id="as">
-        AS
+        {{ if .IsHome }}AS{{ else }}
+        <a href="/">AS</a>{{ end }}
     </div>
     <div id="slogan">
         AS Asset Services SA

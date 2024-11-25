@@ -10,9 +10,9 @@ translationKey: nous
 - Maturité B (latin), 1985
 - Expérience professionnelle dans l’industrie (Suisse, Afrique du Sud)
 - Lic. en droit, 1993 (UZH)
-- Office fédéral des assurances sociales (OFAS). Collaboratrice scientifique. Surveillance et questions juridiques du 2e pilier, 1994 - 1999 
+- Office fédéral des assurances sociales (OFAS). Collaboratrice scientifique: surveillance et questions juridiques du 2e pilier, 1994 - 1999
 - Présidente du conseil d’administration d‘AS Asset Services SA, dès 1999
-- Etude du chinois à la Jiao Tong University à Shanghai (HSK 3).
+- Chine. Etude du chinois à la Jiao Tong University à Shanghai (HSK 3), 2014 - 2015
 
 ## Dr. sc. soc. André Wuerth
 

@@ -17,16 +17,11 @@ Notre gestion des risques est la seule à:
 - se fonder sur la théorie des **systèmes**, les sciences de la **communication** et du **comportement**
 - travailler d’une manière **progressive** et non mécanique
 
-Notre processus:
-
-- ne peut pas être copié
-- ne peut pas être testé rétroactivement (backward)
-
-La **liquidité** de nos portefeuilles Global, Swiss et China est constamment très haute.
-
 ### Notre instrument
 
 **Global Sentiment Exposure Index (G-SEI)** [Description](/pdf/GSEI-fr.pdf) [Abo](/pdf/GSEI-Abo-fr.pdf)
+
+![GSEI](/images/photos/gsei.jpg)
 
 ### Notre Track Record
 
@@ -34,23 +29,18 @@ La **liquidité** de nos portefeuilles Global, Swiss et China est constamment tr
 - [Rapports]({{< relref "track-record" >}}) mensuels et trimestriels
 - [Rapports](/pdf/track-record/track-record.pdf) annuels
 
+![André Würth](/images/photos/andre-wurth.jpg)
+
 ## Communication dans l’industrie
 
 Réalisation complète de **documentation technique**, notamment des modes d'emploi.
 Rédaction en français, allemand et anglais.
 
-![Kern](/images/photos/kern.jpg)
+![Kern](/images/photos/kern2.jpg)
 
-## Communication dans des workshops
-
-Workshops sur les fonctionnements et dysfonctionnements de la communication pour des entreprises, institutions, politiques, massmédias etc.
-
-![CDE2000](/images/photos/cde2000.jpg)
-
-![Workshop](/images/photos/workshop.jpg)
+![Medela](/images/photos/medela.jpg)
 
 ## Publications
-
 
 - <a href="https://youtu.be/qT2tTo9D30w" target="_blank">Chinese Stock Market &amp; AS</a>  
   Swiss Chinese Chamber SCCC - 21.12.2020

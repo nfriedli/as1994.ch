@@ -7,7 +7,7 @@ weight: 20
 
 ## Droit 1er / 2e / 3e pilier
 
-Depuis 1994 notre section de droit élabore des textes juridiques en allemand, français et anglais sous la direction de Maja Wuerth-Neukomm, lic. en droit, dans les domaines suivants: 
+Depuis 1994 notre section de droit élabore des textes juridiques en allemand, français et anglais sous la direction de Maja Wuerth-Neukomm, lic. en droit, dans les domaines suivants:
 
 - Arrêts du Tribunal Fédéral
 - Révisions de lois et d’ordonnances
@@ -16,12 +16,21 @@ Depuis 1994 notre section de droit élabore des textes juridiques en allemand, f
 - Réglementation
 - Instruments de placement
 
+## Autorités pénales / Armée
+
+Depuis 1994 nous formons des Tribunaux, Ministères publics, Corps de Police et les officiers de l’armée sur les embûches/vicissitude de la communication autoritaire (moyens de preuves, discipline, contenance, rôles, psychologie du droit).
+
+![Armée 1](/images/photos/armee-1.jpg)
+
+![Armée 2](/images/photos/armee-2.jpg)
+
+![Armée 3](/images/photos/armee-3.jpg)
+
+![Armée 4](/images/photos/armee-4.jpg)
+
+
 ## Médiation
 
-Ein Rechtsstreit beschäftigt Sie ? Lösung: Schlichten statt Richten mit Streitbeilegung durch Mediation / interpersonaler Kommunikation (Art. 197 ff., Art. 213 ff. ZPO). Auch ein Gerichtsverfahren legt Streit bei: autoritär, mit unberechenbarem Ausgang, ausufernden Kosten und nicht endenden Rechtsmitteln (je nach Raffinesse des Anwalts/der Anwältin und der Betuchtheit der Partei).
-Mediation hingegen, das vom Rechtsstaat gewollte aussergerichtliche Streitschlichtungsverfahren, liefert schneller, günstiger und weniger aufreibend. Es ist vertraulich, freiwillig, in allen Rechtsgebieten, national und international anwend- und jederzeit durchführbar (auch bei laufenden Gerichtsverfahren).
-Wir liefern die Lösung oder öffnen den Weg zur Klagebewilligung (Art. 209 Abs. 1 i.V.m. Art. 213 ZPO).
+Un procès assure la paix sociale d’une manière autoritaire avec des dangers d’un verdict finale imprévisible, des frais débordants et des vois de recours interminable (en fonction de la finesse du représentant et des pécules du mandant).
 
-## Communication dans le droit (psychologie du droit)
-
-Depuis 1995 nous menons des workshops sur la communication de l’économie, de l’armée et depuis 2024 du droit : « information processing » lors des moyens de preuves art. 139 ss CPP et des témoins art. 162 ss CPP).
+Par contre la médiation, la procédure extrajudiciaire de règlement des litiges voulue par l'État de droit, s’appuie sur la communication interpersonnelle et crée un espace (art. 216 al. 2 CPC) permettant à élaborer une transaction qui se solde par plus de rapidité, plus de bien-être et moins de frais. Elle est confidentielle, volontaire, est applicable dans tous les domaines du droit, national et international et à tout moment (aussi pendant des procès en cours). AS contribue à la transaction ou à l’autorisation de procéder (art. 209 al. 1 en rel. a. art. 213 CPC).

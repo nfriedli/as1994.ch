@@ -156,7 +156,7 @@ Quelques entreprises, administrations, universités et instituts de technologie 
 </div>
 
 
-## Confédération & Cantons
+## Autorités
 
 <div class="logos">
 
@@ -181,7 +181,7 @@ Quelques entreprises, administrations, universités et instituts de technologie 
 </div>
 
 
-## Media
+## Médias
 
 <div class="logos">
 
