@@ -38,9 +38,9 @@ h1 {
     margin-block: 2rem 1rem;
 }
 
-h2 {
+:not(h1) + h2 {
     font-size: 1.44rem;
-    margin-block: 2rem 1rem;
+    margin-block: 4rem 1rem;
 }
 
 h3 {
@@ -114,7 +114,7 @@ header nav {
 }
 
 main {
-    margin-block: 6rem;
+    margin-block: 4rem;
 }
 
 footer {
@@ -127,6 +127,14 @@ address {
 
 img {
     max-width: 100%;
+}
+
+hr {
+    margin-block: 2rem;
+}
+
+nav#TableOfContents {
+    margin-block-start: 2rem;
 }
 
 div.logos {

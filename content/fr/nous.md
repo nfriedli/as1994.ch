@@ -18,6 +18,8 @@ translationKey: nous
 
 **Chef d’entreprise.**
 
+[vCard](/vcard.vcf)
+
 - Apprentissage. Monteur d’appareils électroniques et de télécommunication (MAET) avec maturité professionnelle, Swisscom Zurich, 1978 - 1982
 - Séjours linguistiques (GB et F),  1982 - 1983
 - Militaire. Premier Lieutenant, 1984 -1985
@@ -26,11 +28,11 @@ translationKey: nous
 - UN-Mission Swiss Medical Unit en Namibie, 1989
 - Fondation de la raison individuelle Wuerth Communications économiques WWK, dès 1994
 - Chef d’entreprise. AS Asset Services SA, dès 1999
-- Doctorat : La SSR est sa mission d’intégration, Thèse sur stéréotypes & mass médias (Fonds National Suisse / Université de Zurich / Office fédéral de la communication), 1994- 1998
+- Doctorat : La SSR est sa mission d’intégration, Thèse sur stéréotypes & mass médias (Fonds National Suisse / Université de Zurich / Office fédéral de la communication), 1994 - 1998
 - Chine. Fudan University Shanghai (HSK 3), 2014 - 2015
 - Études de droit UniNE & UniBE, 2020 - 2024
 
 ## Collaboratrices / Collaborateurs
 
-- Suisse: 5
-- Chine: 1 
+- Suisse: 3
+- Chine: 1

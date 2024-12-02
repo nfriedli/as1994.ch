@@ -19,15 +19,15 @@ Notre gestion des risques est la seule à:
 
 ### Notre instrument
 
-Global Sentiment Exposure Index (G-SEI) [Description](/pdf/GSEI-fr.pdf) [Abo](/pdf/GSEI-Abo-fr.pdf)
+Global Sentiment Exposure Index (G-SEI) [Description (pdf)](/pdf/GSEI-fr.pdf) [Abo (pdf)](/pdf/GSEI-Abo-fr.pdf)
 
-![GSEI](/images/photos/gsei.jpg)
+[![GSEI](/images/photos/gsei.jpg)](/images/photos/gsei.jpg)
 
 ### Notre Track Record
 
-- [Exposition](/pdf/track-record/exposition.pdf) & Outperformance
+- [Exposition (pdf)](/pdf/track-record/exposition.pdf) & Outperformance
 - [Rapports]({{< relref "track-record" >}}) mensuels et trimestriels
-- [Rapports](/pdf/track-record/track-record.pdf) annuels
+- [Rapports (pdf)](/pdf/track-record/track-record.pdf) annuels
 
 ![André Würth](/images/photos/andre-wurth.jpg)
 
@@ -38,9 +38,25 @@ Rédaction en français, allemand et anglais.
 
 ![Kern](/images/photos/kern2.jpg)
 
+----
+
 ![Medela](/images/photos/medela.jpg)
 
-## Publications
+## Communication médiatique
+
+**Chinese Stock Market &amp; AS**  
+Swiss Chinese Chamber SCCC - 21.12.2020
+
+**Intervista visita ufficiale di Xi Jinping**  
+RSI Radiotelevisione svizzera - 15.10.2017
+
+**Interview习近平在瑞士国事访问**  
+CCTV China Central Television - 15.10.2017
+
+**AS presents Panel: China's global impacts**  
+FINANZ'16 UPDATE - 25.10.2016
+
+----
 
 - <a href="https://youtu.be/qT2tTo9D30w" target="_blank">Chinese Stock Market &amp; AS</a>  
   Swiss Chinese Chamber SCCC - 21.12.2020

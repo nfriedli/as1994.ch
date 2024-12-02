@@ -5,12 +5,17 @@ menu: main
 weight: 30
 ---
 
+{{< toc >}}
+
+
 ## Recherche de pointe
 
-**2008 – 2011** Collaboration scientifique dans le projet de recherche du Fonds National Suisse sur le sujet «Media,
+**2008 – 2011**  
+Collaboration scientifique dans le projet de recherche du Fonds National Suisse sur le sujet «Media,
 Emotions et Marchés financiers». Recherche empirique et modélisation économique sous la direction des professeurs Wirth, Université Zurich (Institut für Publizistik- und Medienwissenschaft) et Hens, Université Zurich (Swiss Banking Institute).
 
-**1992 - 1999**
+**1992 - 1999**  
+Plusieurs publications scientifiques (livres, manuels et revues).
 
 ![Science](/images/photos/science.jpg)
 

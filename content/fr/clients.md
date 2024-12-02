@@ -109,6 +109,8 @@ Quelques entreprises, administrations, universités et instituts de technologie 
 
 ![4seeventures](/images/4seeventures.jpg)
 
+<span>![fh](/images/fh.jpg)<br>Federation Swiss Watch Industry
+
 </div>
 
 ## Science
@@ -208,7 +210,5 @@ Quelques entreprises, administrations, universités et instituts de technologie 
 ![hr](/images/hr.jpg)
 
 ![bpw](/images/bpw.jpg)
-
-<span>![fh](/images/fh.jpg)<br>Federation Swiss Watch Industry
 
 </div>

@@ -40,6 +40,10 @@ block = true
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup.tableOfContents]
+endLevel = 2
+startLevel = 2
+
 [minify]
 minifyOutput = true
 
