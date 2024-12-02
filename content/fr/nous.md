@@ -18,8 +18,6 @@ translationKey: nous
 
 **Chef d’entreprise.**
 
-[vCard](/vcard.vcf)
-
 - Apprentissage. Monteur d’appareils électroniques et de télécommunication (MAET) avec maturité professionnelle, Swisscom Zurich, 1978 - 1982
 - Séjours linguistiques (GB et F),  1982 - 1983
 - Militaire. Premier Lieutenant, 1984 -1985
