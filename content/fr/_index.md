@@ -5,6 +5,18 @@ menu: main
 weight: 1
 ---
 
-La [communication]({{< relref "communication" >}}) est une pierre dans l’édifice de l'[économie]({{< relref "economie" >}}), le [droit]({{< relref "droit" >}}) et la [science]({{< relref "science" >}}) et nos [clients]({{< relref "clients" >}}) exigent de [nous]({{< relref "nous" >}}) d’y tailler la clé de voûte sur mesure -- depuis 1994.
+Le pionnier de la communication complète  
+dans l’économie, le droit et la science.
+{.big}
 
-Seit 1994 wenden wir für unsere Kunden Spitzenforschung auf das Risk Management in den Finanzmärkten an, lehren, publizieren und finden uns im Recht zurecht.
+100% en mains propres.  
+100% capitalisée.  
+100% contrôle ordinaire.  
+100% indépendant.
+{ .big }
+
+<!--
+
+![Granit](/images/photos/granit.jpg)
+
+-->

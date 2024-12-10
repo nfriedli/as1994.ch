@@ -2,6 +2,10 @@
     color-scheme: light;
 }
 
+@view-transition {
+    navigation: auto;
+  }
+
 *,
 *::before,
 *::after {
@@ -15,14 +19,16 @@ html, body {
 
 html {
     background: #FFF;
-    color: #000;
+    color: #222;
     font-size: 100%;
     line-height: 1.5;
     text-wrap: pretty;
 }
 
-main {
-    min-height: 40vh;
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 h1,
@@ -30,20 +36,22 @@ h2,
 h3 {
     line-height: 1.2;
     text-wrap: balance;
+    font-weight: 500;
 }
 
 h1 {
-    font-size: 1.728rem;
-    margin-block: 2rem 1rem;
+    font-size: 2.4rem;
 }
 
 h2 {
-    font-size: 1.44rem;
+    font-size: 2em;
     margin-block: 4rem 1rem;
+    font-weight: 600;
 }
 
 h3 {
-    font-size: 1.2em;
+    font-size: 1.4em;
+    font-weight: 700;
 }
 
 ul {
@@ -75,8 +83,7 @@ dd {
 }
 
 a {
-    color: unset;
-    text-decoration-color: darkred;
+    color: inherit;
     text-decoration-thickness: .2ch;
     text-underline-offset: .2ch;
 }
@@ -103,11 +110,8 @@ header nav {
     gap: 1rem;
 }
 
-main {
-    margin-block: 4rem;
-}
-
 footer {
+    margin-top: auto;
     border-block-start: 2px solid #DDD;
 }
 
@@ -153,14 +157,17 @@ div.logos {
 }
 
 .granit {
+    background: #444;
+    background-image: url(/images/photos/granit.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
     font-family: var(--serif);
     line-height: 1;
     color: #FFF;
-    text-shadow: 1px 1px 1px #000;
-    background: #444;
-    background-image: url(/images/photos/granit.jpg);
+    text-shadow: 0 0 .5rem #000;
 }
 
 .flex {
@@ -178,4 +185,9 @@ div.logos {
 
 #slogan {
     font-size: 2rem;
+}
+
+.big {
+    font-size: 1.2rem;
+    font-weight: 450;
 }
