@@ -1,5 +1,5 @@
 :root {
-    --sans: Roboto, ui-sans-serif, Arial, system-ui, sans-serif;
+    --sans: Inter, Roboto, ui-sans-serif, Arial, system-ui, sans-serif;
     --serif: "Times New Roman", ui-serif, var(--sans);
 }
 

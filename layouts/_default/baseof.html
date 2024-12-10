@@ -19,12 +19,14 @@
     {{ block "head" . }}{{ end }}
 </head>
 
-<body{{ if .IsHome}} class="home"{{ end }}>
+<body>
     
     {{ partial "header" . }}
 
     <main>
+        <div class="wrapper">
         {{ block "main" . }}{{ end }}
+        </div>
     </main>
 
     {{ partial "footer" . }}

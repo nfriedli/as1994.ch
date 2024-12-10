@@ -1,39 +1,48 @@
 <header>
 
-    <div id="languages">
-    {{ if .IsTranslated }}
-    {{ range .AllTranslations }}
-        {{ if eq .Lang page.Lang }}
-        {{ .Language.LanguageName }}
-        {{ else }}
-        <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-        {{ end }}
-    {{ end}}
-    {{ end }}
+    <div class="granit">
+        <div class="wrapper">
+            <div class="flex">
+            <div id="as">
+                    AS
+            </div>
+            <div id="slogan">
+                depuis 1994
+            </div>
+        </div>
+        </div>
     </div>
 
-    <div id="logo">
-    <div id="as">
-        {{ if .IsHome }}AS{{ else }}
-        <a href="/">AS</a>{{ end }}
-    </div>
-    <div id="slogan">
-        AS Asset Services SA
-    </div>
+
+
+    <div class="wrapper">
+        <div class="flex">
+        <nav>
+            {{ $current := .RelPermalink}}
+            {{ range site.Menus.main }}
+                {{ if eq .URL $current }}
+                    {{ .Name }}
+                {{ else }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            {{ end }}
+        </nav>
+        
+        <div id="languages">
+            {{ if .IsTranslated }}
+            {{ range .AllTranslations }}
+                {{ if eq .Lang page.Lang }}
+                {{ .Language.LanguageName }}
+                {{ else }}
+                <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                {{ end }}
+            {{ end}}
+            {{ end }}
+        </div>
     </div>
     
-    <nav>
-        {{ $current := .RelPermalink}}
-        {{ range site.Menus.main }}
-            {{ if eq .URL $current }}
-                {{ .Name }}
-            {{ else }}
-                <a href="{{ .URL }}">{{ .Name }}</a>
-            {{ end }}
-        {{ end }}
+    </div>
+    
 
-
-
-    </nav>
 
 </header>

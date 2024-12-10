@@ -8,18 +8,17 @@
   box-sizing: border-box;
 }
 
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 html {
     background: #FFF;
     color: #000;
     font-size: 100%;
     line-height: 1.5;
     text-wrap: pretty;
-}
-
-body {
-    padding: 1rem;
-    margin: auto;
-    max-width: 66ch;
 }
 
 main {
@@ -38,7 +37,7 @@ h1 {
     margin-block: 2rem 1rem;
 }
 
-:not(h1) + h2 {
+h2 {
     font-size: 1.44rem;
     margin-block: 4rem 1rem;
 }
@@ -89,28 +88,19 @@ a {
     justify-content: end;
 }
 
-#logo {
-    font-family: var(--serif);
-    line-height: 1;
+header, footer {
+    background: #EEE;
+    font-size: .9rem;
 }
 
-#logo a {
-    text-decoration: none;
-}
-
-#as {
-    font-size: 5rem;
-}
-
-#slogan {
-    font-size: 1.2rem;
+header {
+    border-block-end: 2px solid #DDD;
 }
 
 header nav {
     display: flex;
     flex-wrap: wrap;
-    gap: .5rem 1rem;
-    margin-block-start: 2rem;
+    gap: 1rem;
 }
 
 main {
@@ -118,7 +108,7 @@ main {
 }
 
 footer {
-    margin-top: 4rem;
+    border-block-start: 2px solid #DDD;
 }
 
 address {
@@ -156,6 +146,36 @@ div.logos {
     max-width: 120px;
 }
 
-.home :is(h1, nav) {
-    display: none;
+.wrapper {
+    padding: 1rem;
+    margin: auto;
+    max-width: 60rem;
+}
+
+.granit {
+    background-size: cover;
+    background-position: center;
+    font-family: var(--serif);
+    line-height: 1;
+    color: #FFF;
+    text-shadow: 1px 1px 1px #000;
+    background: #444;
+    background-image: url(/images/photos/granit.jpg);
+}
+
+.flex {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+#as {
+    font-size: 5rem;
+}
+
+#slogan {
+    font-size: 2rem;
 }
