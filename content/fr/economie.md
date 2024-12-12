@@ -9,7 +9,20 @@ weight: 10
 
 ## Communication dans les marchés financiers
 
-### Notre exclusivité
+### Notre instrument
+
+Avec notre algorithme unique au monde nous mesurons le sentiment des marchés financiers développés.
+
+## Notre exclusivité
+
+Global Sentiment Exposure Index (G-SEI)
+
+[![GSEI](/images/photos/gsei.jpg)](/images/photos/gsei.jpg)
+
+[Description (pdf)](/pdf/GSEI-fr.pdf) [Abo (pdf)](/pdf/GSEI-Abo-fr.pdf)
+
+
+### Notre Track Record
 
 Notre gestion des risques est la seule à:
 
@@ -17,13 +30,7 @@ Notre gestion des risques est la seule à:
 - se fonder sur la théorie des **systèmes**, les sciences de la **communication** et du **comportement**
 - travailler d’une manière **progressive** et non mécanique
 
-### Notre instrument
-
-Global Sentiment Exposure Index (G-SEI) [Description (pdf)](/pdf/GSEI-fr.pdf) [Abo (pdf)](/pdf/GSEI-Abo-fr.pdf)
-
-[![GSEI](/images/photos/gsei.jpg)](/images/photos/gsei.jpg)
-
-### Notre Track Record
+Documents:
 
 - [Exposition (pdf)](/pdf/track-record/exposition.pdf) & Outperformance
 - [Rapports]({{< relref "track-record" >}}) mensuels et trimestriels
@@ -42,21 +49,8 @@ Rédaction en français, allemand et anglais.
 
 ![Medela](/images/photos/medela.jpg)
 
-## Communication médiatique
+## Communication médiatique (y c. social media)
 
-**Chinese Stock Market &amp; AS**  
-Swiss Chinese Chamber SCCC - 21.12.2020
-
-**Intervista visita ufficiale di Xi Jinping**  
-RSI Radiotelevisione svizzera - 15.10.2017
-
-**Interview习近平在瑞士国事访问**  
-CCTV China Central Television - 15.10.2017
-
-**AS presents Panel: China's global impacts**  
-FINANZ'16 UPDATE - 25.10.2016
-
-----
 
 - <a href="https://youtu.be/qT2tTo9D30w" target="_blank">Chinese Stock Market &amp; AS</a>  
   Swiss Chinese Chamber SCCC - 21.12.2020

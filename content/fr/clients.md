@@ -5,7 +5,7 @@ translationKey: clients
 weight: 40
 ---
 
-Quelques entreprises, administrations, universités et instituts de technologie qui font confiance à AS depuis 1994 (publié par consentement).
+Quelques entreprises, administrations, universités et instituts de technologie qui font confiance à AS depuis 1994 (publiés avec consentement).
 
 {{< toc >}}
 

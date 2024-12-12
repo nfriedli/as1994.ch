@@ -44,8 +44,8 @@ h1 {
 }
 
 h2 {
-    font-size: 2em;
-    margin-block: 4rem 1rem;
+    font-size: 1.8em;
+    margin-block: 2rem 1rem;
     font-weight: 600;
 }
 
@@ -97,7 +97,11 @@ a {
 
 header, footer {
     background: #EEE;
-    font-size: .9rem;
+    font-size: .85rem;
+
+    & a {
+        text-decoration: none;
+    }
 }
 
 header {
@@ -172,7 +176,7 @@ div.logos {
 
 .flex {
     display: flex;
-    gap: 1rem;
+    gap: 2rem 1rem;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;

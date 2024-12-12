@@ -2,23 +2,18 @@
 title: Communication
 translationKey: communication
 menu: main
-weight: 50
+weight: 10
 ---
 
-La communication est une interaction sociale, elle est codée, sélectionnée, décodée et attribuée à des fins de profit ([économie]({{< relref "economie" >}})), de paix ([droit]({{< relref "droit" >}})) et d'ordre ([science]({{< relref "science" >}})).
+## Interaction sociale
 
-Elle relie par des codes et d’une manière sélective le monde intérieur aux mondes extérieurs. 
+La communication est une interaction sociale. Elle relie par des signes (codage, sélection, décodage, attribution) différents niveaux, lesquels se structurent selon le:
 
-Structurellement, cela englobe les niveaux suivants : 
+- Micro: L'individu: surtout la psychologie sociale, c.-à.-d. «information processing»
+- Méso: L’organisation: entreprises, institutions, NGO etc.
+- Macro: Les systèmes partiels: Politique (pouvoir), économie (profit), culture (sens)
+- Global: Le système interconnecté: accès exclusif et spécifiquement sélectif par des médias.  
 
-- **Micro:** l'individu, surtout la psychologie sociale c.à.d. Information processing
-- **Méso:** organisation: Entreprises, Institutions, NGO etc.
-- **Macro:** politique (pouvoir), économie (profit), culture (sens)
-- **Global:** l'espace de la société mondiale, accès exclusif et spécifiquement sélectif par des médias.  
+## Théorie des systèmes
 
-La théorie porteur: la théorie des systèmes: elle remplace l’approche «stimulus-response» par les «relations individu -- mondes extérieurs (environnement)».
-
-
-En bref et plus tangible: 
-- Il en va de la communication comme de la voiture: (presque) tout le monde sait conduire une voiture, mais (presque) personne ne sait comment elle fonctionne.
-- Conséquence: perturbations, accidents, dégradation de l'environnement, voire chaos, etc. etc.  
+Il n’y a rien de plus pratique qu’une bonne théorie: la théorie des systèmes remplace l’approche «stimulus-response» (la pratique courante non apte aux réalités) par les «relations individu - environnement» (la pratique complète apte aux réalités).
