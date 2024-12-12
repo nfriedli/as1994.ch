@@ -1,7 +1,6 @@
 ---
 title: Nous
 translationKey: nous
-menu: main
 ---
 
 ## Maja Wuerth-Neukomm, lic. en droit
