@@ -57,7 +57,7 @@ mandant).
 
 ### Par contre la médiation
 
-- est la procédure extrajudiciaire de règlement des litiges voulue par l'État de droit, s’appuie sur 
+- est la procédure extrajudiciaire de règlement des litiges voulue par l’État de droit, s’appuie sur 
 - la communication interpersonnelle et 
 - crée un espace (art. 216 al. 2 CPC) permettant à 
 - élaborer une transaction qui se solde par 

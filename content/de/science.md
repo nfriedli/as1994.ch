@@ -7,8 +7,8 @@ weight: 30
 
 ## Spitzenforschung
 
-**2008 – 2011**
-Wissenschaftliche Mitarbeit im Forschungsprojekt des Schweizerischen Nationalfonds zum Thema « Medien, Emotionen und Finanzmärkte » Empirische Untersuchung und ökonomische Modellierung unter der Leitung der Professoren Wirth, Universität Zürich / Institut für Publizistik- und Medienwissenschaft und Hens, Universität Zürich / Swiss Banking Institute
+**2008-2011**
+Wissenschaftliche Mitarbeit im Forschungsprojekt des Schweizerischen Nationalfonds zum Thema «Medien, Emotionen und Finanzmärkte» Empirische Untersuchung und ökonomische Modellierung unter der Leitung der Professoren Wirth, Universität Zürich / Institut für Publizistik- und Medienwissenschaft und Hens, Universität Zürich / Swiss Banking Institute
 
 **2002**
 Handbuch der Schweizer Politik
@@ -25,20 +25,20 @@ Mediensystem und politische Kommunikation
 http://www.as1994.ch/Horizonte.pdf  
 http://www.as1994.ch/Horizons.pdf
 
-**1999** « Die SRG und ihr Integrationsauftrag » Verlag Haupt Bern
+**1999** «Die SRG und ihr Integrationsauftrag» Verlag Haupt Bern
 
-**1998** Entscheid des SNF, die Publikation der Forschungsresultate zu finanzieren; Prädikat « hohe wissenschaftliche Qualität »
+**1998** Entscheid des SNF, die Publikation der Forschungsresultate zu finanzieren; Prädikat «hohe wissenschaftliche Qualität»
 
 **1997** Swiss Political Science Review
 
-**1994 – 1998** Forschungsarbeit
+**1994-1998** Forschungsarbeit
 
 **1994** Entscheid des Schweizerischen Nationalfonds zur Förderung der wissenschaftlichen Forschung und des Bundesamtes
-für Kommunikation (Bakom), das Forschungsprojekt « Die SRG
-und ihr Integrationsauftrag » zu finanzieren
+für Kommunikation (Bakom), das Forschungsprojekt «Die SRG
+und ihr Integrationsauftrag» zu finanzieren
 
-**1994** Lizentiat « Journalistenausbildung im Zeichen der Wende.
-Eine systemtheoretische Analyse der Ausbildung von Journalisten an der Karl-Marx-Universität Leipzig unter besonderem Einbezug der politischen Umwälzung ». Feldforschung in Leipzig
+**1994** Lizentiat «Journalistenausbildung im Zeichen der Wende.
+Eine systemtheoretische Analyse der Ausbildung von Journalisten an der Karl-Marx-Universität Leipzig unter besonderem Einbezug der politischen Umwälzung». Feldforschung in Leipzig
 und Berlin
 
 **2013** Medien als Institutionen und Organisationen
@@ -76,7 +76,7 @@ Entrepreneurship (2016)
 Financial markets and communication (2016)
 
 **Tongji University**  
-交流中的技术 – Communication in Technology (2015)
+交流中的技术-Communication in Technology (2015)
 
 **glaTec / ETH**
 Entrepreneurship (2015)
@@ -109,7 +109,7 @@ Risk Management (2008-2012)
 Financial markets and communication (2011)
 
 **University of Zurich**  
-Conference «The Significance of Media in Science and Research » (2011)
+Conference «The Significance of Media in Science and Research» (2011)
 
 **University of Zurich**  
 Media effects and stock prices (2010)

@@ -10,22 +10,22 @@ weight: 30
 
 ## Recherche de pointe
 
-### 2008 – 2011
+### 2008-2011
 
-Collaboration scientifique dans le projet de recherche du Fonds National Suisse sur le sujet « Media, Emotions et Marchés
-financiers ». Recherche empirique et modélisation économique sous la direction des professeurs Wirth, Université
+Collaboration scientifique dans le projet de recherche du Fonds National Suisse sur le sujet «Media, Emotions et Marchés
+financiers». Recherche empirique et modélisation économique sous la direction des professeurs Wirth, Université
 
 Zurich / Institut für Publizistik- und Medienwissenschaft et Hens, Université Zurich / Swiss Banking Institute.
 
-###
+### 1992-1999
 
-**1994** Licence « Formation journalistique et soulèvement populaire en RDA » enquête de terrain à Leipzig et Berlin
+**1994** Licence «Formation journalistique et soulèvement populaire en RDA» enquête de terrain à Leipzig et Berlin
 
-**1994** Décision du Fonds National Suisse de la recherche scientifique et l’Office fédéral de la Communication (OFCOM) de financer le projet de recherche « La SSR et sa mission d’intégration »
+**1994** Décision du Fonds National Suisse de la recherche scientifique et l’Office fédéral de la Communication (OFCOM) de financer le projet de recherche «La SSR et sa mission d’intégration»
 
-**1998** Décision du FNS pour des subsides de publication des résultats de recherche. Distinction « excellente qualité scientifique »
+**1998** Décision du FNS pour des subsides de publication des résultats de recherche. Distinction «excellente qualité scientifique»
 
-**1999** « La SSR et sa mission d’intégration » éd. Haupt Berne
+**1999** «La SSR et sa mission d’intégration» éd. Haupt Berne
 Publications scientifiques
 
 **1997** Swiss Political Science Review

@@ -5,7 +5,7 @@ translationKey: nous
 
 ## Maja Wuerth-Neukomm, lic. en droit
 
-**Présidente du conseil d'administration.**
+**Présidente du conseil d’administration.**
 
 - Maturité B (latin), 1985
 - Expérience professionnelle dans l’industrie (Suisse, Afrique du Sud)

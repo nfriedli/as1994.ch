@@ -9,7 +9,7 @@ weight: 10
 
 La communication est une interaction sociale. Elle relie par des signes (codage, sélection, décodage, attribution) différents niveaux, lesquels se structurent selon le:
 
-- Micro: L'individu: surtout la psychologie sociale, c.-à.-d. «information processing»
+- Micro: L’individu: surtout la psychologie sociale, c.-à.-d. «information processing»
 - Méso: L’organisation: entreprises, institutions, NGO etc.
 - Macro: Les systèmes partiels: Politique (pouvoir), économie (profit), culture (sens)
 - Global: Le système interconnecté: accès exclusif et spécifiquement sélectif par des médias.  
