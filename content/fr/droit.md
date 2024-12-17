@@ -1,7 +1,7 @@
 ---
+menu: main
 title: Droit
 translationKey: droit
-menu: main
 weight: 20
 ---
 
@@ -9,7 +9,7 @@ weight: 20
 
 ## Droit 1er / 2e / 3e pilier
 
-Depuis 1994 nous élaborons des textes juridiques en allemand, français et anglais dans les domaines suivants:
+Depuis 1994 nous élaborons des textes juridiques en allemand, français et anglais dans les domaines suivants :
 
 - Arrêts du Tribunal Fédéral et du Tribunal administratif fédéral
 - Révisions de lois et d’ordonnances
@@ -20,7 +20,7 @@ Depuis 1994 nous élaborons des textes juridiques en allemand, français et angl
 
 ## Armée / Autorités pénales
 
-Depuis 1994 nous démasquons les écueils de la communication autoritaire en allemand, français et anglais dans les domaines suivants :
+Depuis 1994 nous démasquons les écueils de la communication autoritaire en allemand, français et anglais dans les domaines suivants :
 
 - Moyens de preuves
 - Psychologie du droit
@@ -28,7 +28,7 @@ Depuis 1994 nous démasquons les écueils de la communication autoritaire en all
 - Discipline
 - Contenance
 
-pour des:
+pour des :
 
 - Officiers de l’armée
 - Tribunaux
