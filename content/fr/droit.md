@@ -51,6 +51,7 @@ pour des :
 ### Une procédure judiciaire
 
 XXX pécules?
+XXX pourquoi poser les problèmes?
 
 assure la paix sociale d’une manière autoritaire avec des dangers d’un verdict final imprévisible, des frais débordants et des voies de recours interminables (en fonction de la finesse du représentant et des pécules du mandant).
 
@@ -65,6 +66,20 @@ XXX liste ou sauts de ligne volontaires?
 - plus de rapidité,
 - plus de bien-être et
 - moins de frais.
+
+XXX
+
+La médiation est la **procédure extrajudiciaire** de règlement des litiges voulue par l’État de droit. 
+Elle s’appuie sur la **communication interpersonnelle** permettant de **créer un espace** (art. 216 al. 2 CPC) et d'**élaborer une transaction** qui se solde par:
+
+- plus de rapidité,
+- plus de bien-être et
+- moins de frais.
+
+XXX
+
+La médiation est la **procédure extrajudiciaire** de règlement des litiges voulue par l’État de droit. 
+Elle s’appuie sur la **communication interpersonnelle** permettant de **créer un espace** (art. 216 al. 2 CPC) et d'**élaborer une transaction** qui se solde par plus de **rapidité**, plus de **bien-être** et **moins de frais**.
 
 ### Elle est
 
