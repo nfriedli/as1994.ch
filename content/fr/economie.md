@@ -1,47 +1,42 @@
 ---
 title: Économie
-menu: main
 translationKey: economie
-weight: 10
+menu: main
+weight: 30
 ---
 
 {{< toc >}}
 
 ## Communication dans les marchés financiers
 
-### Notre instrument
+### Notre exclusivité
 
 Avec notre algorithme unique au monde nous mesurons le sentiment des marchés financiers développés.
+Il travaille avec la psychologie et les émotions et se fonde sur la théorie des systèmes ainsi que les sciences de la communication et du comportement.
 
-## Notre exclusivité
+### Notre instrument
 
 Global Sentiment Exposure Index (G-SEI)
 
 [![GSEI](/images/photos/gsei.jpg)](/images/photos/gsei.jpg)
 
-[Description (pdf)](/pdf/GSEI-fr.pdf) [Abo (pdf)](/pdf/GSEI-Abo-fr.pdf)
-
-
 ### Notre Track Record
 
-Notre gestion des risques est la seule à :
+XXX Enlever les liens? Enlever la page TR?
 
-- travailler avec la **psychologie** et les **émotions**
-- se fonder sur la théorie des **systèmes**, les sciences de la **communication** et du **comportement**
-- travailler d’une manière **progressive** et non mécanique
+Pour l’Exposition,  l’Outperformance, les Rapports mensuels et trimestriels, veuillez [vous adresser à AS]{{% relref "contact" %}}.
 
-Documents :
+- [Rapports annuels (pdf)](/pdf/track-record/track-record.pdf) annuels
 
-- [Exposition (pdf)](/pdf/track-record/exposition.pdf) & Outperformance
-- [Rapports]({{< relref "track-record" >}}) mensuels et trimestriels
-- [Rapports (pdf)](/pdf/track-record/track-record.pdf) annuels
+XXX Enlever?
 
 ![André Würth](/images/photos/andre-wurth.jpg)
 
-## Communication dans l’industrie
+## Technologie
 
-Réalisation complète de **documentation technique**, notamment des modes d’emploi.
-Rédaction en français, allemand et anglais.
+Réalisation complète de documentations techniques en français, allemand et anglais. 
+
+XXX Enlever?
 
 ![Kern](/images/photos/kern2.jpg)
 

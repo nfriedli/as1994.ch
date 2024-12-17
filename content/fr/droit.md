@@ -1,17 +1,17 @@
 ---
-menu: main
 title: Droit
 translationKey: droit
-weight: 20
+menu: main
+weight: 40
 ---
 
 {{< toc >}}
 
-## Droit 1er / 2e / 3e pilier
+## Droit 1er / 2e / 3e pilier
 
 Depuis 1994 nous élaborons des textes juridiques en allemand, français et anglais dans les domaines suivants :
 
-- Arrêts du Tribunal Fédéral et du Tribunal administratif fédéral
+- Arrêts du Tribunal fédéral et du Tribunal administratif fédéral
 - Révisions de lois et d’ordonnances
 - Institutions de prévoyance
 - Fiscalité
@@ -19,6 +19,8 @@ Depuis 1994 nous élaborons des textes juridiques en allemand, français et angl
 - Instruments de placement
 
 ## Armée / Autorités pénales
+
+XXX Majuscules dans les listes?
 
 Depuis 1994 nous démasquons les écueils de la communication autoritaire en allemand, français et anglais dans les domaines suivants :
 
@@ -48,29 +50,32 @@ pour des :
 
 ### Une procédure judiciaire
 
-assure la paix sociale d’une manière autoritaire
-avec des dangers d’un verdict finale
-imprévisible, des frais débordants et des vois
-de recours interminable (en fonction de la
-finesse du représentant et des pécules du
-mandant).
+XXX pécules?
+
+assure la paix sociale d’une manière autoritaire avec des dangers d’un verdict final imprévisible, des frais débordants et des voies de recours interminables (en fonction de la finesse du représentant et des pécules du mandant).
 
 ### Par contre la médiation
 
-- est la procédure extrajudiciaire de règlement des litiges voulue par l’État de droit, s’appuie sur 
-- la communication interpersonnelle et 
-- crée un espace (art. 216 al. 2 CPC) permettant à 
-- élaborer une transaction qui se solde par 
-- plus de rapidité, 
-- plus de bien-être et 
-- moins de frais. 
+XXX liste ou sauts de ligne volontaires?
+
+- est la procédure extrajudiciaire de règlement des litiges voulue par l’État de droit. Elle s’appuie sur 
+- la communication interpersonnelle
+- permettant de créer un espace (art. 216 al. 2 CPC) et
+- d'élaborer une transaction qui se solde par 
+- plus de rapidité,
+- plus de bien-être et
+- moins de frais.
 
 ### Elle est
+
+XXX idem pour liste
 
 - confidentielle, 
 - volontaire,  
 - applicable dans tous les domaines du droit,
-- à tout moment (aussi pendant des procès en cours)
-- national et international. 
+- faisable à tout moment (aussi pendant des procès en cours) et elle est
+- nationale et internationale. 
 
-AS contribue à la transaction ou à l’autorisation de procéder (art. 209 al. 1 en rel. a. art. 213 CPC).
+XXX Pas limpide
+
+AS contribue à la transaction ou à l’autorisation de procéder (art. 209 al. 1 en rel. avec art. 213 CPC).

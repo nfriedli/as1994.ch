@@ -5,18 +5,12 @@ menu: main
 weight: 1
 ---
 
-Le pionnier de la communication complète  
-dans l’économie, le droit et la science.
-{.big}
+Pionnier pour une communication complète  
+dans l’économie, le droit et la science
 
-100% en mains propres.  
-100% capitalisée.  
-100% contrôle ordinaire.  
-100% indépendant.
-{ .big }
+![Granit](/images/photos/granit-logo-fr.jpg)
 
-<!--
-
-![Granit](/images/photos/granit.jpg)
-
--->
+100% en mains propres  
+100% capitalisée  
+100% révision ordinaire  
+Bref : 100% indépendant

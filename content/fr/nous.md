@@ -1,6 +1,8 @@
 ---
 title: Nous
 translationKey: nous
+menu: main
+weight: 60
 ---
 
 ## Maja Wuerth-Neukomm, lic. en droit
@@ -12,7 +14,7 @@ translationKey: nous
 - Lic. en droit, 1993 (UZH)
 - Office fédéral des assurances sociales (OFAS). Collaboratrice scientifique : surveillance et questions juridiques du 2e pilier, 1994-1999
 - Présidente du conseil d’administration d‘AS Asset Services SA, dès 1999
-- Chine. Etude du chinois à la Jiao Tong University à Shanghai (HSK 3), 2014-2015
+- Chine. Étude du chinois à la Jiao Tong University à Shanghai (HSK 3), 2014-2015
 
 ## Dr. sc. soc. André Wuerth
 
@@ -27,7 +29,7 @@ translationKey: nous
 - Fondation de la raison individuelle Wuerth Communications économiques WWK, dès 1994
 - Chef d’entreprise. AS Asset Services SA, dès 1999
 - Doctorat : La SSR est sa mission d’intégration, Thèse sur stéréotypes & mass médias (Fonds National Suisse / Université de Zurich / Office fédéral de la communication), 1994-1998
-- Chine. Fudan University Shanghai (HSK 3), 2014-2015
+- Chine. Étude du chinois à la Jiao Tong University à Shanghai (HSK 3), 2014-2015
 - Études de droit UniNE & UniBE, 2020-2024
 
 ## Collaboratrices / Collaborateurs
