@@ -40,6 +40,10 @@ h1 {
     font-size: 2.4rem;
 }
 
+h1.home {
+    display: none;
+}
+
 h2 {
     font-size: 1.8em;
     margin-block: 2rem 1rem;
@@ -85,6 +89,11 @@ a {
     text-underline-offset: .2ch;
 }
 
+
+.home a {
+    text-decoration: none;
+}
+
 #languages {
     display: flex;
     float: right;
@@ -93,7 +102,6 @@ a {
 }
 
 header, footer {
-    background: #EEE;
     font-size: .85rem;
 
     & a {
@@ -102,10 +110,10 @@ header, footer {
 }
 
 header {
-    border-block-end: 2px solid #DDD;
+    border-block-end: 2px solid #EEE;
 }
 
-header nav {
+nav.menu {
     display: flex;
     flex-wrap: wrap;
     gap: .5rem 1rem;
@@ -113,7 +121,7 @@ header nav {
 
 footer {
     margin-top: auto;
-    border-block-start: 2px solid #DDD;
+    border-block-start: 2px solid #EEE;
 }
 
 address {
@@ -191,6 +199,10 @@ div.logos {
 .big {
     font-size: 1.2rem;
     font-weight: 450;
+}
+
+.current {
+    color: #888;
 }
 
 .right {

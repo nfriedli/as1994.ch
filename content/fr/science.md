@@ -18,6 +18,26 @@ weight: 50
 
 Collaboration scientifique dans le projet de recherche du Fonds National Suisse sur le sujet « Media, Emotions et Marchés financiers ». Recherche empirique et modélisation économique sous la direction des professeurs Wirth, Université Zurich / IKMZ Institut für Kommunikationswissenschaft und Medienforschung et Hens, Université Zurich / Swiss Banking Institute.
 
+
+### 1999
+« La SSR et sa mission d’intégration » éd. Haupt Berne
+Publications scientifiques
+
+### 1999
+Manuel de la politique suisse. Système des médias et communication politique
+
+### 1999
+Fonds National Suisse « L’information à la TV : SF DRS et TSR se replient sur leur région »
+
+### 1999 
+Schweizerischer Nationalfonds « TV-Information : Rückzug in die Regionen »  
+
+### 1998
+Décision du FNS pour des subsides de publication des résultats de recherche. Distinction « excellente qualité scientifique »
+
+### 1997
+Swiss Political Science Review « Review. Wolton Dominique. Pensez la communication »
+
 ### 1994
 
 ![TestXXX](/images/publications/dr.jpg)
@@ -32,28 +52,7 @@ Licence « Formation journalistique et soulèvement populaire en RDA » enquê
 
 Décision du Fonds National Suisse de la recherche scientifique et l’Office fédéral de la Communication (OFCOM) de financer le projet de recherche « La SSR et sa mission d’intégration »
 
-### 1998
-Décision du FNS pour des subsides de publication des résultats de recherche. Distinction « excellente qualité scientifique »
-
-### 1999
-« La SSR et sa mission d’intégration » éd. Haupt Berne
-Publications scientifiques
-
-### 1997
-Swiss Political Science Review
-
-### 1999
-Manuel de la politique suisse. Système des médias et communication politique
-
-### 1999
-Fonds National Suisse
-
-### 1999 
-Schweizerischer Nationalfonds
-
-![Science](/images/photos/science.jpg)
-
-## Enseignement académique
+## Enseignement académique et professionnel
 
 **Université de Zurich**  
 Financial markets and communication 2003-2018

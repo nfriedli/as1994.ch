@@ -22,21 +22,15 @@ Global Sentiment Exposure Index (G-SEI)
 
 ### Notre Track Record
 
-XXX Enlever les liens? Enlever la page TR?
-
-Pour l’Exposition,  l’Outperformance, les Rapports mensuels et trimestriels, veuillez [vous adresser à AS]{{% relref "contact" %}}.
+Pour l’Exposition,  l’Outperformance, les Rapports mensuels et trimestriels, veuillez [vous adresser à AS]({{% relref "contact" %}}).
 
 - [Rapports annuels (pdf)](/pdf/track-record/track-record.pdf) annuels
-
-XXX Enlever?
 
 ![André Würth](/images/photos/andre-wurth.jpg)
 
 ## Technologie
 
 Réalisation complète de documentations techniques en français, allemand et anglais. 
-
-XXX Enlever?
 
 ![Kern](/images/photos/kern2.jpg)
 

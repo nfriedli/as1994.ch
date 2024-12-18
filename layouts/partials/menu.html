@@ -1,0 +1,23 @@
+<div class="flex">
+    <nav class="menu">
+        {{ $current := .RelPermalink}}
+        {{ range site.Menus.main }}
+            {{ if eq .URL $current }}
+                <span class="current">{{ .Name }}</span>
+            {{ else }}
+                <a href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+        {{ end }}
+    </nav>
+    
+    <div id="languages">
+        {{ if .IsTranslated }}
+        {{ range .AllTranslations }}
+            {{ if eq .Lang page.Lang }}
+            <span class="current">{{ .Language.LanguageName }}</span>
+            {{ else }}
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            {{ end }}
+        {{ end}}
+        {{ end }}
+    </div>

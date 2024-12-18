@@ -1,4 +1,8 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+<h1 class="home">{{ .Title }}</h1>
 {{ .Content }}
+
+{{ if .IsHome }}
+    {{ partial "menu" . }}
+{{ end }}
 {{ end }}
